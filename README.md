@@ -9,3 +9,5 @@ https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/typography.html
 https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/function.html
 
 https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/images.html
+
+https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/table.html
