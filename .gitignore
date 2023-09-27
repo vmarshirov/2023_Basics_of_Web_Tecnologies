@@ -1,0 +1,13 @@
+/.ssh/*
+/.idea/*
+/env/*
+/.local/*
+/.cache/*
+.viminfo
+.bash_history
+.swp
+id_rsa
+id_rsa.pub
+/__pycache__/*
+/*/__pycache__/*
+git
