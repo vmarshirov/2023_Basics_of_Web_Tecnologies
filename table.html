@@ -14,13 +14,25 @@
 
 
     <tr>
-        <td>Ссылки на все страницы сайта</td>
+        <td>
+            <ul>
+                <li><a href="./table.html" target="_self"><b>Таблицы, ссылки и закладки</b></a>
+                <li><a href="./table.html" target="_self"><img height="20px" src="./images/01.png"> </a>
+                <li><a href="./table.html#head1" target="_self">Глава 1 в ...</a>
+                <li><a href="./abc.html" target="_blank">Черновик задачи ABC</a>
+                <li><a href="http://www.hse.ru" target="_blank">Вышка, открывается в новом окне</a>
+            </ul>
+        </td>
     </tr>
 
     <tr>
         <td>
-    <!--Уникально содержание страницы-->
-            <h3 align="center">Осваиваем таблицы ('это одна из страниц сайта)</h3>
+            <!--Уникально содержание страницы-->
+            <h3 align="center" id="start">Таблицы, ссылки и закладки</h3>
+            <a href="#table" target="_self" title="Закладка">Таблицы</a>
+            <a href="#head1" target="_self" title="Закладка">Глава 1 (закладка) в текущем документе</a>
+
+            <h4 id="table">Таблицы ('это одна из страниц сайта)</h4>
             <table align="center" border=1 cellpadding="5" cellspacing="1" width="600px">
                 <thead>
                 <tr>
@@ -39,6 +51,15 @@
                 </tr>
                 </tbody>
             </table>
+            <p align="right"><a href="#start" target="_self" title="Закладка">К началу страницы</a></p>
+
+            <h4><a id="head1"> Глава 1 (id="head1")</a></h4>
+            <p>Абзац текста&nbsp;<br>Строка текста<br>Строка текста<br>Строка текста<br>Строка текста<br>Строка текста
+            </p>
+            <p>Абзац текста&nbsp;<br>Строка текста<br>Строка текста<br>Строка текста<br>Строка текста<br>Строка текста
+            </p>
+            <p align="right"><a href="#start" target="_self" title="Закладка">К началу страницы</a></p>
+
         </td>
 
 
