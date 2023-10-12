@@ -12,12 +12,12 @@
         <td>Заголовок всего сайта</td>
     </tr>
 
-
     <tr>
         <td>
             <ul>
-                <li><a href="./f_1.html" target="_blank"><b>Форма 1</b></a>
-                <li><a href="./f_2.html" target="_blank"><b>Форма 2</b></a>
+                <li><a href="./f_1.html" target="_self"><b>Форма 1</b></a></li>
+                <li><a href="./f_2.html" target="_self"><b>Форма 2</b></a></li>
+            </ul>
         </td>
     </tr>
 
@@ -46,40 +46,31 @@
                         <OPTION value="Читаю и перевожу со словарем">Читаю и перевожу со словарем</OPTION>
                     </select>
                 </p>
-
                 <p> Дополнительная информация:
                     <br>
                     <TEXTAREA cols=80 name="textarea" rows=4>Для заметок</TEXTAREA>
                 </p>
-
                 <p>Дата: <input name="user_date" type="date" value='2000-01-01'></p>
                 <p>Пароль: <input name="password" size=9 type="Password" value="123"></p>
                 <!--Все нижерасположенные фрагменты перемещать нельзя, редактировать можно-->
                 <p>Название файла: <input name="000_file_name" size='30' type="Техт" value="Н_ОW_Г_326510_1_Ivanov.txt">
                 </p>
-
                 <p> Тип записи в файл:<select name="010_mode">
                     <OPTION value="a">a - дозаписать в файл</OPTION>
                     <OPTION value="w">w - очисить файл и записать в файл</OPTION>
                 </select></p>
-
                 <input name="function" type="hidden" value="page">
                 <input name="page_id" type="hidden" value="3">
-
                 <p>
                     <input name="Reset" type="Reset" value="Обновить">
                     <input name="submit" type="Submit" value="Отправить">
                 </p>
-
             </form>
-
         </td>
-
 
     <tr>
         <td>Нижний блок сайта</td>
     </tr>
-
 
 </table>
 </body>
