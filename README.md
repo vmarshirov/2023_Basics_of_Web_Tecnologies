@@ -1,15 +1,19 @@
-### 2023_Basics_of_Web_Tecnologies
+## 2023_Basics_of_Web_Tecnologies
 
-##### https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/
+### Справочники
+https://developer.mozilla.org/ru/docs/Web/HTML/Element
 
-##### https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/index.html
+#### Примеры
+https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/
 
-##### https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/typography.html
+https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/index.html
 
-##### https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/function.html
+https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/typography.html
 
-##### https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/images.html
+https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/function.html
 
-##### https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/table.html
+https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/images.html
+
+https://vmarshirov.github.io/2023_Basics_of_Web_Tecnologies/table_anchor.html
 
 
